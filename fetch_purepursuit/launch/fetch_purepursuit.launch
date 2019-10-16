@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="fetch_purepursuit" type="fetch_purepursuit" name="fetch_purepursuit"  output="screen">
+  </node>
+</launch>
